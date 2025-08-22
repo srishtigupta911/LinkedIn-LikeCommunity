@@ -1,0 +1,31 @@
+{
+  "short_name": "LinkedIn Community",
+  "name": "LinkedIn Community - Connect, Share, and Grow Together",
+  "icons": [
+    {
+      "src": "linkedin-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0077b5",
+  "background_color": "#f3f2ef",
+  "description": "A modern social platform for professionals to connect, share, and grow together."
+}
