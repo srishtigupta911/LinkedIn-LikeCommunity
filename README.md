@@ -178,12 +178,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ---
 
-## Copyright
 
-© 2025 [Lagnajit Saha](https://github.com/LagnajitSaha). All rights reserved.
-
-**Developer**: Lagnajit Saha  
-**GitHub**: [@LagnajitSaha](https://github.com/LagnajitSaha)  
-**LinkedIn**: [Lagnajit Saha](https://linkedin.com/in/lagnajit-saha-134b48252)
 
 This frontend was developed as part of the LinkedIn Community Platform, demonstrating modern React development practices with Material-UI and comprehensive social networking features.
